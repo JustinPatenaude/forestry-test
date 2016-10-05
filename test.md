@@ -1,6 +1,6 @@
 ---
 title: Test
-date: '2016-10-05 10:59:00'
+date: '2016-10-05 00:00:00'
 layout: page
 ---
 ## This is a test
