@@ -21,6 +21,7 @@ github_username:  jekyll
 markdown: kramdown
 collections:
   portfolio:
+    permalink: /portfolio/:path/
     defaults:
       values:
         layout: portfolio
